@@ -17,7 +17,7 @@
 ## 🔗 Quick Links
 - ▶️ [View Jupyter Notebook](./Cost_Cut_Rx_Analytics.ipynb)
 - 📊 [Download Sample Dataset](./sample_claims_data.csv)
-- 🖼️ [View Pareto Chart](./visuals/pareto_curve.png)
+- 🖼️ [View Pareto Chart](./pareto_curve.png)
 - 📄 [Read Presentation Deck](./docs/$12M_Cost_Cut_Rx_Presentation.pdf)
 
 ---
