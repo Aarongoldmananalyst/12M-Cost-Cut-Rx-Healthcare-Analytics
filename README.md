@@ -1,3 +1,20 @@
+# 🏥 About This Project
+
+**$12M Cost-Cut Rx** is a healthcare analytics portfolio project designed to demonstrate real-world data analysis, predictive modeling, and executive storytelling skills.
+
+It simulates how a data analyst or healthcare business intelligence professional can use **Python, SQL, and Power BI/Tableau** to:
+- Identify high-cost patient cohorts driving healthcare spend
+- Detect claim denial root causes through predictive analytics
+- Deliver dashboards and executive insights that recover **$12.1M annually**
+
+This project mirrors a **consulting-style analytics engagement**, including technical code, synthetic datasets, data governance, and ROI modeling — all packaged for professional portfolio use.
+
+
+
+
+
+
+
 <p align="center">
   <img width="1200" height="800" alt="pareto_curve" src="https://github.com/user-attachments/assets/ba7af04e-a3a0-432e-86ec-250f01b59c54" />
 
