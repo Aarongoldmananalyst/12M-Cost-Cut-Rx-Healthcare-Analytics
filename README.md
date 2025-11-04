@@ -1,9 +1,7 @@
 <p align="center">
   <img width="1200" height="800" alt="pareto_curve" src="https://github.com/user-attachments/assets/ba7af04e-a3a0-432e-86ec-250f01b59c54" />
 
-<p align="center">
-  <img src="visuals/pareto_curve.png" alt="Pareto Analysis Banner" width="900">
-</p>
+
 
 # 💊 $12M Cost-Cut Rx — Healthcare Analytics Project
 
