@@ -1,6 +1,11 @@
 <p align="center">
   <img width="1200" height="800" alt="pareto_curve" src="https://github.com/user-attachments/assets/ba7af04e-a3a0-432e-86ec-250f01b59c54" />
-💊 $12M Cost-Cut Rx — Healthcare Analytics Project
+
+<p align="center">
+  <img src="visuals/pareto_curve.png" alt="Pareto Analysis Banner" width="900">
+</p>
+
+# 💊 $12M Cost-Cut Rx — Healthcare Analytics Project
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
@@ -25,6 +30,23 @@
 - **Sources:** Claims, EHR, and pharmacy feeds (2.4M claims + 900K encounters)  
 - **Join Keys:** `member_id`, `service_date` (<0.1% unmatched)  
 - **Reconciliation:** Within ±2% of finance ledger (audit-ready)
+
+---
+
+## 📊 Data Dictionary
+
+| Column Name     | Description |
+|-----------------|--------------|
+| **member_id**   | Unique identifier for each patient or member. |
+| **service_date**| Date of the medical service or claim submission. |
+| **claim_amount**| Total billed amount for the service (USD). |
+| **denied**      | Binary flag indicating if the claim was denied (1 = denied, 0 = approved). |
+| **payer**       | Insurance provider responsible for the claim (e.g., Aetna, Medicare). |
+| **service_type**| Type of medical service provided (Imaging, Infusion, Consultation, Surgery). |
+| **month** *(derived)* | Month extracted from `service_date` for time-series analysis. |
+| **is_high_cost** *(derived)* | Flag indicating if claim is in the top 5% of spenders. |
+
+> **Note:** Dataset is synthetic and generated for demonstration purposes — no PHI or real patient data is included.
 
 ---
 
@@ -72,18 +94,18 @@ pip install -r requirements.txt
 
 # 4) Launch the notebook
 jupyter notebook Cost_Cut_Rx_Analytics.ipynb
+
+
 🗺️ Roadmap
 
-Month 0–1: Charter + Data Access
+📅 Six-Month Plan
 
-Month 2: Case Management Pilot
-
-Month 3: AI Coding Rollout
-
-Month 4: Dashboard Launch
-
-Month 6: Savings Validation
-
+Month	Milestone
+0–1	Charter & Data Access
+2	Case Management Pilot
+3	AI Coding Rollout
+4	Dashboard Launch
+6	Savings Validation
 🧩 Deliverables
 
 Cost_Cut_Rx_Analytics.ipynb — Jupyter notebook for analysis
