@@ -44,3 +44,36 @@ High-Cost Cohort Spend	52% of total	43% of total	↓ 9% PMPM
 Claim Denial Rate	11%	<8%	$4.3M saved
 ROI	-	-	9:1
 Payback	-	-	7 months
+## 🗺️ Roadmap
+
+Month 0–1: Charter + Data Access
+Month 2: Case Management Pilot
+Month 3: AI Coding Rollout
+Month 4: Dashboard Launch
+Month 6: Savings Validation
+
+## 🧩 Deliverables
+
+Jupyter notebooks for analysis
+
+Power BI dashboard screenshots
+
+Data dictionary / ERD diagram
+
+PDF presentation (link to your “$12M Cost-Cut Rx” deck
+)
+
+Project documentation notebook
+
+## 🧭 Lessons Learned
+
+Data-driven governance ensures both accuracy and compliance.
+
+Cross-functional collaboration (finance, IT, clinical) accelerates ROI.
+
+Predictive analytics must tie directly to actionable workflows to drive savings.
+
+## 🤝 Contact
+
+Author: Aaron Goldman
+LinkedIn: linkedin.com/in/aaron-goldmans
