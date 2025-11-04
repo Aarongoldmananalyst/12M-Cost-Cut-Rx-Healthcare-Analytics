@@ -19,7 +19,7 @@
 - 📊 [Download Sample Dataset](./sample_claims_data.csv)
 - 🖼️ [View Pareto Chart](./pareto_curve.png)
 
-- 📄 [Read Presentation Deck](./docs/$12M_Cost_Cut_Rx_Presentation.pdf)
+- 📄 [Read Presentation Deck](./docs/12M_Cost_Cut_Rx_Presentation.pdf)
 
 ---
 
