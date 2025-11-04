@@ -14,6 +14,14 @@
 
 ---
 
+## 🔗 Quick Links
+- ▶️ [View Jupyter Notebook](./Cost_Cut_Rx_Analytics.ipynb)
+- 📊 [Download Sample Dataset](./sample_claims_data.csv)
+- 🖼️ [View Pareto Chart](./visuals/pareto_curve.png)
+- 📄 [Read Presentation Deck](./docs/$12M_Cost_Cut_Rx_Presentation.pdf)
+
+---
+
 ## 🧠 Problem Statement
 - Top 5% of members drive **52%** of spend.  
 - **11%** claim-denial rate risks **$9.7M** in annual revenue.  
@@ -92,10 +100,7 @@ pip install -r requirements.txt
 
 # 4) Launch the notebook
 jupyter notebook Cost_Cut_Rx_Analytics.ipynb
-
-
 🗺️ Roadmap
-
 📅 Six-Month Plan
 
 Month	Milestone
@@ -104,8 +109,8 @@ Month	Milestone
 3	AI Coding Rollout
 4	Dashboard Launch
 6	Savings Validation
-🧩 Deliverables
 
+🧩 Deliverables
 Cost_Cut_Rx_Analytics.ipynb — Jupyter notebook for analysis
 
 sample_claims_data.csv — synthetic dataset
@@ -117,6 +122,8 @@ docs/$12M_Cost_Cut_Rx_Presentation.pdf — project deck
 README.md + data notes
 
 🗂️ Repo Structure
+bash
+Copy code
 .
 ├── README.md
 ├── requirements.txt
@@ -126,9 +133,7 @@ README.md + data notes
 │   └── pareto_curve.png
 └── docs/
     └── $12M_Cost_Cut_Rx_Presentation.pdf
-
 🧭 Lessons Learned
-
 Trusted, reconciled data drives executive buy-in more than complex models.
 
 Cross-functional alignment (finance + clinical + IT) accelerates ROI.
@@ -136,6 +141,7 @@ Cross-functional alignment (finance + clinical + IT) accelerates ROI.
 Analytics must feed operational workflows to create sustained impact.
 
 🤝 Contact
-
 Author: Aaron Goldman
 LinkedIn: linkedin.com/in/aaron-goldmans
+
+
