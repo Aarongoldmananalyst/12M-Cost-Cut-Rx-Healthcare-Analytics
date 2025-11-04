@@ -3,7 +3,7 @@
 
 
 
-#💊 $12M Cost-Cut Rx — Healthcare Analytics Project
+# 💊 $12M Cost-Cut Rx — Healthcare Analytics Project
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
@@ -17,8 +17,8 @@
 ## 🔗 Quick Links
 - ▶️ [View Jupyter Notebook](./Cost_Cut_Rx_Analytics.ipynb)
 - 📊 [Download Sample Dataset](./sample_claims_data.csv)
-- 🖼️ [View Pareto Chart](./pareto_curve.png)
-- 📄 [Read Presentation Deck](./$12M Cost-Cut Rx PROJECT.pdf)
+- 🖼️ [View Pareto Chart](./visuals/pareto_curve.png)
+- 📄 [Read Presentation Deck](./docs/$12M_Cost_Cut_Rx_Presentation.pdf)
 
 ---
 
@@ -143,5 +143,7 @@ Analytics must feed operational workflows to create sustained impact.
 🤝 Contact
 Author: Aaron Goldman
 LinkedIn: linkedin.com/in/aaron-goldmans
+
+
 
 
