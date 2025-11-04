@@ -23,6 +23,13 @@
 
 ---
 
+## 🖥️ Project Deck Preview
+Click below to open the full presentation 👇  
+
+[![Open PDF](https://img.shields.io/badge/View%20Presentation-12M_Cost_Cut_Rx-blue?logo=adobeacrobatreader)](./docs/12M_Cost_Cut_Rx_Presentation.pdf)
+
+---
+
 ## 🧠 Problem Statement
 - Top 5% of members drive **52%** of spend.  
 - **11%** claim-denial rate risks **$9.7M** in annual revenue.  
@@ -52,8 +59,6 @@
 | **service_type**| Type of medical service provided (Imaging, Infusion, Consultation, Surgery). |
 | **month** *(derived)* | Month extracted from `service_date` for time-series analysis. |
 | **is_high_cost** *(derived)* | Flag indicating if claim is in the top 5% of spenders. |
-
-> **Note:** Dataset is synthetic and generated for demonstration purposes — no PHI or real patient data is included.
 
 ---
 
@@ -118,12 +123,12 @@ sample_claims_data.csv — synthetic dataset
 
 visuals/pareto_curve.png — Pareto visualization
 
-docs/$12M_Cost_Cut_Rx_Presentation.pdf — project deck
+docs/12M_Cost_Cut_Rx_Presentation.pdf — project deck
 
 README.md + data notes
 
 🗂️ Repo Structure
-bash
+markdown
 Copy code
 .
 ├── README.md
@@ -133,7 +138,7 @@ Copy code
 ├── visuals/
 │   └── pareto_curve.png
 └── docs/
-    └── $12M_Cost_Cut_Rx_Presentation.pdf
+    └── 12M_Cost_Cut_Rx_Presentation.pdf
 🧭 Lessons Learned
 Trusted, reconciled data drives executive buy-in more than complex models.
 
@@ -144,7 +149,5 @@ Analytics must feed operational workflows to create sustained impact.
 🤝 Contact
 Author: Aaron Goldman
 LinkedIn: linkedin.com/in/aaron-goldmans
-
-
 
 
