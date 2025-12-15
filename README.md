@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="1536" height="1024" alt="7a17b6fd-1663-430d-a85f-dae4d25c5d3e" src="https://github.com/user-attachments/assets/6a0ea2e2-1309-46a7-a235-58f2cb05c8e2" />
+
+</p>
+
+
 # 🏥 About This Project
 
 **$12M Cost-Cut Rx** is a healthcare analytics portfolio project designed to demonstrate real-world data analysis, predictive modeling, and executive storytelling skills.
@@ -21,7 +27,9 @@ This project mirrors a **consulting-style analytics engagement**, including tech
 
 
 # 💊 $12M Cost-Cut Rx — Healthcare Analytics Project
+**Executive Summary:** Targeted analytics identified high-cost claim drivers and denial risk segments, enabling projected annual savings of $12.1M with a 7-month payback.
 
+---
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Portfolio--Ready-success)
@@ -103,7 +111,7 @@ Click below to open the full presentation 👇
 |:--|:--|:--|:--|
 | High-Cost Cohort Spend | 52% of total | 43% of total | ↓ 9% PMPM |
 | Claim Denial Rate | 11% | < 8% | $4.3M saved |
-| ROI | — | — | 9:1 |
+| Estimated ROI | — | — | 9:1 |
 | Payback | — | — | 7 months |
 
 ---
