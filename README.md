@@ -15,6 +15,8 @@ It simulates how a data analyst or healthcare business intelligence professional
 
 This project mirrors a **consulting-style analytics engagement**, including technical code, synthetic datasets, data governance, and ROI modeling — all packaged for professional portfolio use.
 
+The workflow follows a structured pipeline from raw claims data through feature engineering and analysis to executive-ready insights and recommendations.
+
 
 
 
@@ -89,7 +91,7 @@ Click below to open the full presentation 👇
 
 ## 🔍 Analytics Approach
 - **Exploratory Analysis:** Identify high-cost outliers and denial trends (Pareto principle)  
-- **Predictive Modeling:** Denial probability model (**AUC > 0.85**)  
+- **Predictive Modeling:** To identify high-risk claims and key drivers of claim denials 
 - **Segmentation:** Stratify members by cost drivers for targeted interventions  
 - **Governance:** HIPAA-aligned pipeline with PHI minimization
 
@@ -113,6 +115,11 @@ Click below to open the full presentation 👇
 | Claim Denial Rate | 11% | < 8% | $4.3M saved |
 | Estimated ROI | — | — | 9:1 |
 | Payback | — | — | 7 months |
+
+---
+## 💡 Business Interpretation
+
+The analysis shows that a small subset of patients and claim types account for the majority of healthcare spend. By prioritizing high-cost patient cohorts and high-denial claim categories, payers can focus intervention efforts where they deliver the greatest financial impact.
 
 ---
 
